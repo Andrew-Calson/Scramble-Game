@@ -1,4 +1,7 @@
-# game
+# scramble game
+# description
+It's the guessing word game.
+There are 20 words and you should input guessing word after you see scamble word.
 
 ## Project setup
 ```
